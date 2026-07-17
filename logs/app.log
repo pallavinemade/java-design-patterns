@@ -1,0 +1,21 @@
+2026-07-17 15:09:39 [main] INFO  com.pallavi.designpatterns.builder.CustomerBuilderDemo - Customer: CustomerProfile{id=1bd31155-3aac-4ba8-af2e-f749b135d2be, name='Pallavi Nemade', email='pallavi.nemade@example.com', address='123 Main St', phoneNumber='555-1234'}
+2026-07-17 15:09:39 [main] INFO  com.pallavi.designpatterns.builder.CustomerBuilderDemo - Customer Email: CustomerEmail{toAddress='pallavi.nemade@example.com', fromAddress='abc@example.com', subject='Welcome Pallavi Nemade', body='Dear Pallavi Nemade,
+
+Thank you for registering with us!
+
+Best regards,
+The Team'}
+2026-07-17 15:09:55 [main] INFO  com.pallavi.designpatterns.builder.CustomerBuilderDemo - Customer: CustomerProfile{id=4773768a-8e89-4f48-9234-e4e6d3e19e5e, name='Pallavi Nemade', email='pallavi.nemade@example.com', address='123 Main St', phoneNumber='555-1234'}
+2026-07-17 15:09:55 [main] INFO  com.pallavi.designpatterns.builder.CustomerBuilderDemo - Customer Email: CustomerEmail{toAddress='pallavi.nemade@example.com', fromAddress='abc@example.com', subject='Welcome Pallavi Nemade', body='Dear Pallavi Nemade,
+
+Thank you for registering with us!
+
+Best regards,
+The Team'}
+2026-07-17 15:11:00 [main] INFO  com.pallavi.designpatterns.builder.CustomerBuilderDemo - Customer: CustomerProfile{id=a1ef0105-f6de-478f-aee3-2c001de84130, name='Pallavi Nemade', email='pallavi.nemade@example.com', address='123 Main St', phoneNumber='555-1234'}
+2026-07-17 15:11:00 [main] INFO  com.pallavi.designpatterns.builder.CustomerBuilderDemo - Customer Email: CustomerEmail{toAddress='pallavi.nemade@example.com', fromAddress='abc@example.com', subject='Welcome Pallavi Nemade', body='Dear Pallavi Nemade,
+
+Thank you for registering with us!
+
+Best regards,
+The Team'}
