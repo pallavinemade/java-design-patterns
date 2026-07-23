@@ -12,6 +12,7 @@
         <module>builder</module>
         <module>logging-common</module>
         <module>factory</module>
+        <module>singleton</module>
     </modules>
 
     <properties>
