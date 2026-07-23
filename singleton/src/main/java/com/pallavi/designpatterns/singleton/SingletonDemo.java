@@ -28,6 +28,6 @@ public class SingletonDemo {
         ConfigurationManager configuration2 = ConfigurationManager.INSTANCE;
         log.info("Configuration Manager instance: {}", configuration2);
         log.info("Are both Configuration Manager's instances the same? {}", configuration == configuration2);
-        configuration2.getConfiguration();;
+        configuration2.getConfiguration();
     }
 }
