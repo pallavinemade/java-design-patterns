@@ -13,6 +13,7 @@
         <module>logging-common</module>
         <module>factory</module>
         <module>singleton</module>
+        <module>decorator</module>
     </modules>
 
     <properties>
